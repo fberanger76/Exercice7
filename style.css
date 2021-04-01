@@ -1,0 +1,28 @@
+#container {
+    display: flex;
+    background-color: #2d3e4f;
+    flex-wrap: wrap;
+}
+
+body {
+    background-color: #2d3e4f;
+}
+
+
+.carré1 {
+    background-color: #39cb74;
+    width: 80vw;
+    height: 5vh;
+}
+
+.carré2 {
+    background-color: #2f81b7;
+    width: 20vw;
+    height: 5vh;
+}
+
+.carré3 {
+    background-color: #e54d42;
+    width: 33vw;
+    height: 10vh;
+}
